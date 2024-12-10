@@ -43,3 +43,7 @@ Les fichiers quotes
 devrons contenire les expréssions les plus utilisés de la langue 
 par les natifs
 Je ne les ai pas encore récupérés
+
+
+Pour le moment, je n'utilise pas topwords et quotes
+ça sera dans un second temps
