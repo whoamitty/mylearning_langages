@@ -1,6 +1,8 @@
+# Ce fichier explique ce d'ont j'ai besoin pour exploiter ma base de donnée
+
 ## `*_to*.csv` 
 une commande qui envois dans la langue cible  
-les nouvelles definitions trouvés d'un mot  
+les nouvelles definitions trouvés d'un mot
 dans les fichier `*_to*.csv` 
 du dossier mylearning_langages/ 
 
@@ -20,6 +22,9 @@ ex: trans -enfr eat prendre manger finir
 ## word_increment.csv
 si un mot ajouté l'as déjà été une fois,
 on incrémente dans word_increment.csv son nombre de fois ajouté
+english/word_increment.csv
+french/word_increment.csv
+
 et en l'ajoutant si ce n'est que la première fois avec une initialisation à 1
 exemple de contenu pour word_increment.csv :
 easygoing, 1
